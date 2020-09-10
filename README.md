@@ -1,3 +1,7 @@
+Andrés Felipe Romero Brand - 202013448 - af.romerob1@uniandes.edu.co 
+Alejandra Montoya Peñuela - 202012729 j.montoyap@uniandes.edu.co 
+Alejandro Andres Soto Penagos – 201719695 - aa.sotop@uniandes.edu.co
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
